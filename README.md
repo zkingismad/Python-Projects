@@ -9,18 +9,20 @@ This repository contains three Python projects developed as part of my coursewor
 * Data analysis using Pandas
 * Visualizations using Matplotlib
 * Correlation heatmaps and dashboards
+  
+### 2. House Price Prediction
 
-### 2. Matrix Operations Tool
+* Linear Regression model
+* Data preprocessing and visualization
+* House price prediction using Scikit-Learn
+
+### 3. Matrix Operations Tool
 
 * Matrix addition, subtraction, multiplication
 * Transpose and determinant calculations
 * Built using NumPy
 
-### 3. House Price Prediction
 
-* Linear Regression model
-* Data preprocessing and visualization
-* House price prediction using Scikit-Learn
 
 ## Technologies Used
 
